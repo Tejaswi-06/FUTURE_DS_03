@@ -88,3 +88,9 @@ The dashboard is designed to support **data-driven marketing decisions** by visu
 - **Data Cleaning & Transformation (Power Query)**
 
 ---
+
+## 👤 Author
+*Tejaswi*  
+GitHub: [Tejaswi-06](https://github.com/Tejaswi-06)
+
+---
